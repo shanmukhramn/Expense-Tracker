@@ -1,0 +1,25 @@
+{
+  "expenses": [
+    {
+      "id": "a8c0",
+      "title": "Bat",
+      "amount": 500,
+      "date": "2024-11-08",
+      "category": "Entertainment"
+    },
+    {
+      "id": "17e9",
+      "title": "Laptop",
+      "amount": 50000,
+      "date": "2024-06-06",
+      "category": "Entertainment"
+    },
+    {
+      "id": "8bb0",
+      "title": "Guitar",
+      "amount": 5000,
+      "date": "2024-10-28",
+      "category": "Entertainment"
+    }
+  ]
+}
